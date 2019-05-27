@@ -1,0 +1,84 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: May 26, 2019 7:44 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.14
+WORDPRESS:	5.2.1
+PHP INFO:	7.2.9 | SAPI: fpm-fcgi
+SERVER:		nginx/1.14.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+MEMORY STACK: 2MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+SQL CREATED: blog_0daec04dbd1bf5004354_20190526194010_database.sql 
+SQL FILE SIZE: 614.55KB (629303) 
+SQL FILE TIME: 2019-05-26 19:44:10 
+SQL RUNTIME: 2.16 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /app/public 
+ARCHIVE FILE: blog_0daec04dbd1bf5004354_20190526194010_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	132.17MB 
+STATS:	Dirs 2,516 | Files 17,849 
+SQL ADDED: blog_0daec04dbd1bf5004354_20190526194010_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 20365
+    [filename] => /app/public/wp-snapshots/tmp/blog_0daec04dbd1bf5004354_20190526194010_archive.zip
+    [comment] => 
+)
+ 
+FILE ADDED TO ZIP: 20364 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 46.41MB 
+ARCHIVE RUNTIME: 201.81 sec. 
+MEMORY STACK: 138.06MB 
+building installer 
+add_extra_files1 
+add_extra_files2 
+add_extra_files3 
+add_extra_files4 
+Doing archive file check 
+add_extra_files5 
+add_extra_files6 
+add_extra_files8 
+Successfully opened zip /app/public/wp-snapshots/tmp/blog_0daec04dbd1bf5004354_20190526194010_archive.zip 
+Adding enhanced installer files to archive using ZipArchive 
+Installer files added to archive 
+Added to archive 
+After ziparchive close when adding installer 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL FILE: 614.55KB 
+INSTALLER FILE: 47.39KB 
+ARCHIVE FILE: 47.8MB  
+EXPECTED FILE/DIRECTORY COUNT: 20,365 
+ACTUAL FILE/DIRECTORY COUNT: 20,364 
+ARCHIVE CONSISTENCY TEST: Pass 
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 209.63 sec.
+PEAK PHP MEMORY USED: 142.06MB
+DONE PROCESSING => blog May 26, 2019 7:47 pm
+ 

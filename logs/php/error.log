@@ -1,0 +1,5 @@
+[26-May-2019 11:24:10 UTC] PHP Fatal error:  Class 'Requests_Hooks' not found in /app/public/wp-includes/class-wp-http-requests-hooks.php on line 17
+[26-May-2019 11:24:11 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in phar:///usr/local/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/SynopsisValidator.php on line 92
+[26-May-2019 15:24:30 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /app/public/wp-content/themes/understrap/single.php on line 120
+[26-May-2019 16:59:05 UTC] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /app/public/wp-content/themes/understrap/home.php on line 9
+[26-May-2019 17:53:50 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /app/public/wp-content/themes/understrap/functions.php on line 38
